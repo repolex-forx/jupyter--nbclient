@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/jupyter/nbclient/commit/0811ff44c63c9853c4d6ba7265d7042ca7f8742a",
       "git:hexsha": "0811ff44c63c9853c4d6ba7265d7042ca7f8742a",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.11.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.11.0",
+      "repolex:parsedAt": "2026-10-28T11:13:30.729443+00:00"
     },
     {
       "@id": "https://repolex.ai/r/jupyter/nbclient/commit/d3510fd413797cd86b53227e1deef8612d0ef49b",
